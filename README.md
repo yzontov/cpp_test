@@ -7,4 +7,4 @@ void main(){
 }
 ```
 
-(c) Yury Zontov, [MIEM HSE](https://miem.hse.ru)
+(c) *Yury Zontov*, [MIEM HSE](https://miem.hse.ru)
