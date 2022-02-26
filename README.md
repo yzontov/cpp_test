@@ -1,5 +1,5 @@
 # cpp_test
-Test project for **C++** course
+Test project for **C++** Course
 
 ```c++
 void main(){
